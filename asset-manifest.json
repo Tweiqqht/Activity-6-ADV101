@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Tweiqqht/adv101act6.git/static/css/main.cba8e04f.css",
+    "main.js": "/Tweiqqht/adv101act6.git/static/js/main.45af25a3.js",
+    "static/js/453.be5431cb.chunk.js": "/Tweiqqht/adv101act6.git/static/js/453.be5431cb.chunk.js",
+    "index.html": "/Tweiqqht/adv101act6.git/index.html",
+    "main.cba8e04f.css.map": "/Tweiqqht/adv101act6.git/static/css/main.cba8e04f.css.map",
+    "main.45af25a3.js.map": "/Tweiqqht/adv101act6.git/static/js/main.45af25a3.js.map",
+    "453.be5431cb.chunk.js.map": "/Tweiqqht/adv101act6.git/static/js/453.be5431cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cba8e04f.css",
+    "static/js/main.45af25a3.js"
+  ]
+}
